@@ -11,5 +11,9 @@ public class DemoC {
 	public void add(int a, int b) {
 		System.out.println(a+b); 
 	}
+	/Sprint 3 Work 
+	public void sub(int a, int b) {
+		System.out.println(a-b); 
+	}
  
 } 
