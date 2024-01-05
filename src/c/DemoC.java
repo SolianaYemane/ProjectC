@@ -7,5 +7,9 @@ public class DemoC {
 		System.out.println("Sprit 4 Done");  
 
 	}
+	//Sprint two Work 
+	public void add(int a, int b) {
+		System.out.println(a+b); 
+	}
  
-}
+} 
